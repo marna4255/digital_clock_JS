@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&family=Handlee&display=swap');
+
+
+    body {
+    height: 100vh; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+  }  
+   
+
+  #clock {
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Handlee', cursive;
+    font-size: 98px;
+    color: rgb(236, 236, 236);
+    
+  }
